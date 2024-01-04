@@ -18,15 +18,6 @@
     "patreon": "https://patreon.com/"
   },
   "colors": {
-    "light": {
-      "background": "#FBF1C9",
-      "foreground": "#3C3836",
-      "yellow": "#D79921",
-      "green": "#98971A",
-      "gray": "#7C6F64",
-      "blue": "#458588",
-      "red": "#CA2124"
-    },
     "dark": {
       "background": "#2E3440",
       "foreground": "#E5E9F0",
